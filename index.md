@@ -8,7 +8,7 @@ I am a PHP/HTML5 and Java/JavaScript Developer. <br>CEO of kersozone.pl
 
 # </>Kersozone
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kersozone)<br/>
-[![Site](https://img.shields.io/badge/Kersozone%20Site-8A2BE2)](https://kersozone.pl)
+[![Site](https://img.shields.io/badge/Kersozone%20Site-8A2BE2)](https://kersozone.pl)<br/>
 [![](https://dcbadge.vercel.app/api/server/MJV3Md5HZQ)](https://discord.gg/MJV3Md5HZQ)
 
 ## Bonus
